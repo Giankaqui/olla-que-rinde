@@ -1,0 +1,17 @@
+{
+  "name": "Olla que Rinde",
+  "short_name": "Olla que Rinde",
+  "description": "Planifica menús, compras y el presupuesto de tu olla común.",
+  "lang": "es-PE",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f6f9f3",
+  "theme_color": "#1b6b3a",
+  "icons": [
+    { "src": "icono.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icono-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icono-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
